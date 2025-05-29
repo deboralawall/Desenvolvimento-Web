@@ -1,9 +1,9 @@
-Projeto E-commerce de Moda
-Descrição do Projeto
+# 🛍️ Projeto E-commerce de Moda
+## 🔍 Descrição do Projeto
 
 Este projeto é um site de comércio eletrônico de roupas, desenvolvido como parte dos exercícios contínuos da disciplina de Desenvolvimento e Aplicações na Web.
 
-A evolução do projeto seguiu as seguintes etapas:
+## A evolução do projeto seguiu as seguintes etapas:
 
     HTML: Estrutura inicial da página estática.
 
@@ -15,7 +15,7 @@ A evolução do projeto seguiu as seguintes etapas:
 
     Banco de Dados(MySQL): Armazenamento e gerenciamento de informações.
 
-Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 ✔ Cadastro e login de usuários
 ✔ Catálogo de produtos dinâmico
